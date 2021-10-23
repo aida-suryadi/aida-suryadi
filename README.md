@@ -1,5 +1,10 @@
 ### Hi there 👋
 Here us what I'am working on!
+- 🔭 I’m currently working on ... finishing my Master's Degree
+- 🌱 I’m currently learning ... CNN and Deep Learning on Image!
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... 
+- ⚡ Fun fact: ... I'm an Architect who just know how to Code!
 <!--
 **aida-suryadi/aida-suryadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
